@@ -1,1 +1,5 @@
-Questo sarà il file di descrizione. Se ci servirà descrivere qualcosa, anche per noi, lo scriveremo qui
+Questo sarà il file di descrizione. Se ci servirà descrivere qualcosa, anche per noi, lo scriveremo qui.
+
+Allora, i primi punti di UML li ho fatti. Nel secondo punto però (lo SCOPE) manca la prioritizzazione e gli use case più concreti, ma abbiamo detto che li facciamo più avanti. Lo use case astratto è nel file .mdzip, lo devi aprire con Magic Draw, non l'ho messo nel documento nel caso in cui dobbiamo cambiare qualcosa.
+
+Per quanto riguarda le funzionalità non ho aggiunto niente, ma ho spostato le funzionalità di gestione account e di rigenerazione password a tutti gli utenti registrati, prima appartenevano solo all'utente acquirente ma non aveva senso, no? Questo aggiustamento l'ho fatto sia nel documento UML, sia nel documento delle specifiche che abbiamo inviato ad Amleto (anche se ormai non ci serve più) e nello use-case.
